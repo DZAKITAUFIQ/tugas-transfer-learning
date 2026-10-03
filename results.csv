@@ -1,0 +1,4 @@
+mode,best_val_acc,train_time_s,epoch_val_90
+feature,1.0000,223.5,3
+partial,1.0000,274.5,1
+scratch,0.5667,454.5,-
